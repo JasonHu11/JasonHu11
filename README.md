@@ -18,17 +18,17 @@ A wearable system built on the Seeed Studio XIAO nRF52840 Sense that classifies 
 
 ## Featured Projects
 
-### [PawwPrint](https://github.com/JasonHu11/REPO_NAME): Social App for Pet Owners
+### PawwPrint: Social App for Pet Owners
 Co-founded and led UI/UX design for a cross-platform social app that connects pet owners. It includes authentication, a real-time social feed, and user profiles. **Published on the App Store and Google Play with 350+ downloads.**
 
 **Stack:** `Flutter` · `Dart` · `Firebase`
 
-### [Nectar](https://github.com/JasonHu11/REPO_NAME): Restaurant Website
+### Nectar: Restaurant Website
 A responsive vegetarian restaurant site with interactive menus, a shopping cart, online ordering, user accounts, and a reservation system. **1st place at the Oklahoma TSA State Competition in Web Development.**
 
 **Stack:** `HTML` · `CSS` · `JavaScript` · `Firebase`
 
-### [Reach](https://github.com/JasonHu11/REPO_NAME): Event Networking Platform
+### Reach: Event Networking Platform
 Built and deployed in a 24-hour hackathon. Attendees scan a QR code to join an event space, and a real-time directory puts everyone's LinkedIn and Instagram in one place.
 
 **Stack:** `HTML` · `CSS` · `JavaScript` · `Firebase`
